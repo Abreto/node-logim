@@ -1,0 +1,25 @@
+{
+  "name": "logim",
+  "version": "0.0.0",
+  "description": "Managing logins and signing status of users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abreto/node-logim.git"
+  },
+  "keywords": [
+    "authentication",
+    "security",
+    "user",
+    "login"
+  ],
+  "author": "abreto<m@abreto.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abreto/node-logim/issues"
+  },
+  "homepage": "https://github.com/Abreto/node-logim#readme"
+}
